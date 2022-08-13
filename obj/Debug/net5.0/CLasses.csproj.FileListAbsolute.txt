@@ -1,0 +1,16 @@
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/CLasses.csproj.AssemblyReference.cache
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/CLasses.GeneratedMSBuildEditorConfig.editorconfig
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/CLasses.AssemblyInfoInputs.cache
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/CLasses.AssemblyInfo.cs
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/CLasses.csproj.CoreCompileInputs.cache
+/home/galmodovar/workspace/csharp/CLasses/bin/Debug/net5.0/CLasses
+/home/galmodovar/workspace/csharp/CLasses/bin/Debug/net5.0/CLasses.deps.json
+/home/galmodovar/workspace/csharp/CLasses/bin/Debug/net5.0/CLasses.runtimeconfig.json
+/home/galmodovar/workspace/csharp/CLasses/bin/Debug/net5.0/CLasses.runtimeconfig.dev.json
+/home/galmodovar/workspace/csharp/CLasses/bin/Debug/net5.0/CLasses.dll
+/home/galmodovar/workspace/csharp/CLasses/bin/Debug/net5.0/ref/CLasses.dll
+/home/galmodovar/workspace/csharp/CLasses/bin/Debug/net5.0/CLasses.pdb
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/CLasses.dll
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/ref/CLasses.dll
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/CLasses.pdb
+/home/galmodovar/workspace/csharp/CLasses/obj/Debug/net5.0/CLasses.genruntimeconfig.cache
